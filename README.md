@@ -12,6 +12,6 @@ The dataset contains information about credit applicants, including their person
 
 See 'Credit Risk Default Python Notebook'
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
